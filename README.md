@@ -13,8 +13,9 @@ Relevant links:
 
 I'll check my knowledge about:
 
+* Process (sure fire)
 * Thread (rather confident in this one)
-* Fiber
+* Fiber (never used)
 * Ractor (need to dig into it)
 
 I'll need to benchmark execution speed and memory footprint 
