@@ -15,7 +15,7 @@ if __FILE__ == $0
     x.report('Ractors: ') do
       Montecarlo::Ractors.run!(iterations)
     end
-    x.report('Processors: ') do
+    x.report('Processes: ') do
       Montecarlo::Processes.run!(iterations)
     end
     x.report('Threads: ') do
